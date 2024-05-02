@@ -261,7 +261,7 @@ function App() {
           Notifications
         </Title>
         {notifications.map((notification) => (
-            <Group>
+            <Group key={notification.id}>
               <div>
                 <Text>{notification.title}</Text>
                 <Text>{notification.body}</Text>
