@@ -1,4 +1,3 @@
-Here's an appealing README for your Circle Web SDK Wallet Application project, with emojis and a clear explanation of the project's features and functionality.
 
 # 🔑 Circle Web SDK Wallet Application 🌐
 
