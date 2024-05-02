@@ -17,7 +17,6 @@ import {
   MantineProvider
 } from '@mantine/core'
 import '@mantine/core/styles.css'
-import { create } from '@mui/material/styles/createTransitions'
 
 let sdk: W3SSdk
 
